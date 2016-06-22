@@ -57,7 +57,7 @@ plugins=(git common-aliases docker gulp brew node npm)
 
 DEFAULT_USER="thinkdevcode"
 
-export PATH="$HOME/Library/Python/3.5/bin:/Users/thinkdevcode/google-cloud-sdk/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin"
+export PATH="/Users/thinkdevcode/google-cloud-sdk/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
