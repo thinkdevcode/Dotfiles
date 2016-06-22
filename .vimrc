@@ -12,4 +12,4 @@ set shiftwidth=4
 " " On pressing tab, insert 4 spaces
 set expandtab
 set pastetoggle=
-set rtp+=/Users/thinkdevcode/Library/Python/3.5/lib/python/site-packages/powerline/bindings/vim
+set rtp+=/usr/local/lib/python3.5/site-packages/powerline/bindings/vim
