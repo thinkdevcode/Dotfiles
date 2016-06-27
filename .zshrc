@@ -1,13 +1,13 @@
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/thinkdevcode/.oh-my-zsh
 
-. /usr/local/lib/python3.5/site-packages/powerline/bindings/zsh/powerline.zsh
+export TERM=xterm-256color
 
 # Set name of the theme to load.
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="agnoster"
+ZSH_THEME="bullet-train"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
